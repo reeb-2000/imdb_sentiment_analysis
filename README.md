@@ -26,5 +26,5 @@ A Natural Language Processing (NLP) project to classify movie reviews as positiv
 ## Files
 - `imdb_sentiment_analysis.ipynb` - Complete project notebook
 
-## 🛠️ Technologies
+## Technologies
 Python, NLTK, Scikit-learn, Pandas, Matplotlib, Seaborn
